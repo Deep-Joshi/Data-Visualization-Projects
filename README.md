@@ -11,3 +11,6 @@ My second challenge from Makeover Monday. Attached file is a Tableau Workbook (.
 
 #### Following steps can be followed to view the file contents:
 Launch the .twb file, by double-clicking it. If your file associations are set up correctly, the file will be opened using Tableau Desktop  Go to dashboards -> Happy Visualizing!
+
+## COVID-19 Analysis
+The dataset has been fetched from open.canada.ca. Attached file is a Tableau Packaged Workbook (.TWBX) file. The dataset referred and referenced by opening this file on Tabeleau Desktop. It contains all the worksheets and dashboards that were used to communicate the message or storytelling.
